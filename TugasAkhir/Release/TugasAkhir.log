@@ -1,0 +1,30 @@
+﻿  Demo.cpp
+Demo.cpp(159): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Demo.cpp(188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Demo.cpp(394): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+Demo.cpp(522): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  Game.cpp
+Game.cpp(233): warning C4101: 'infoLog': unreferenced local variable
+Game.cpp(232): warning C4101: 'success': unreferenced local variable
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+Demo.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui_ImplSdlGL3_ProcessEvent(union SDL_Event *)" (?ImGui_ImplSdlGL3_ProcessEvent@@YA_NPATSDL_Event@@@Z)
+Demo.obj : error LNK2001: unresolved external symbol "public: __thiscall ImGuiStyle::ImGuiStyle(void)" (??0ImGuiStyle@@QAE@XZ)
+Demo.obj : error LNK2001: unresolved external symbol __imp__FT_New_Face
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplSdlGL3_Shutdown(void)" (?ImGui_ImplSdlGL3_Shutdown@@YAXXZ)
+Demo.obj : error LNK2001: unresolved external symbol __imp__FT_Done_FreeType
+Demo.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui_ImplSdlGL3_Init(struct SDL_Window *)" (?ImGui_ImplSdlGL3_Init@@YA_NPAUSDL_Window@@@Z)
+Demo.obj : error LNK2001: unresolved external symbol __imp__FT_Done_Face
+Demo.obj : error LNK2001: unresolved external symbol __imp__FT_Init_FreeType
+Demo.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class irrklang::ISoundEngine * __cdecl irrklang::createIrrKlangDevice(enum irrklang::E_SOUND_OUTPUT_DRIVER,int,char const *,char const *)" (__imp_?createIrrKlangDevice@irrklang@@YAPAVISoundEngine@1@W4E_SOUND_OUTPUT_DRIVER@1@HPBD1@Z)
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplSdlGL3_NewFrame(struct SDL_Window *)" (?ImGui_ImplSdlGL3_NewFrame@@YAXPAUSDL_Window@@@Z)
+Demo.obj : error LNK2001: unresolved external symbol __imp__FT_Load_Char
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::End(void)" (?End@ImGui@@YAXXZ)
+Demo.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::Button(char const *,struct ImVec2 const &)" (?Button@ImGui@@YA_NPBDABUImVec2@@@Z)
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::SetNextWindowPos(struct ImVec2 const &,int)" (?SetNextWindowPos@ImGui@@YAXABUImVec2@@H@Z)
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::Render(void)" (?Render@ImGui@@YAXXZ)
+Demo.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::Begin(char const *,bool *,int)" (?Begin@ImGui@@YA_NPBDPA_NH@Z)
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::Text(char const *,...)" (?Text@ImGui@@YAXPBDZZ)
+Demo.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::SetNextWindowSize(struct ImVec2 const &,int)" (?SetNextWindowSize@ImGui@@YAXABUImVec2@@H@Z)
+Demo.obj : error LNK2001: unresolved external symbol __imp__FT_Set_Pixel_Sizes
+F:\Pemrograman_Game\vs\Release\TugasAkhir.exe : fatal error LNK1120: 19 unresolved externals
