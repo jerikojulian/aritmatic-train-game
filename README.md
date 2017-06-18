@@ -22,7 +22,7 @@ Controller untuk memilih jawaban:
 
 -arah kiri untuk memilih pilihan jawaban kiri
 
--arah tengah untuk memilih pilihan jawaban tengah
+-arah bawah untuk memilih pilihan jawaban tengah
 
 -arah kanan untuk memilih pilihan jawaban kanan
 
