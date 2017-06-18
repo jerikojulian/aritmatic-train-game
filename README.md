@@ -20,11 +20,11 @@ Jika saat melewati portal namun anda belum menjawab, palang tidak akan terbuka d
 
 Controller untuk memilih jawaban:
 
-<arah kiri> untuk memilih pilihan jawaban kiri
+-arah kiri untuk memilih pilihan jawaban kiri
 
-<arah tengah> untuk memilih pilihan jawaban tengah
+-arah tengah untuk memilih pilihan jawaban tengah
 
-<arah kanan> untuk memilih pilihan jawaban kanan
+-arah kanan untuk memilih pilihan jawaban kanan
 
 
 Jika jawaban salah maka kereta juga akan tertabrak
